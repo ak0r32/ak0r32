@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%26+Data+Scientist;Building+Smart+Cybersecurity+Systems;Mentor+%7C+Bug+Hunter+%7C+Trainer" alt="Typing SVG" />
 </h1>
@@ -14,17 +12,17 @@
   <br>
   🔐 Securing Systems | 📡 Hacking Ethically | 🤖 Building Smart Defenses
 </p>
-<h2 align="center">🚨 Cybersecurity Wisdom (Part 1)</h2>
+<h2 align="center">🚨 Cybersecurity Wisdom </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Cybersecurity+is+not+just+IT's+job+—+it's+everyone's+responsibility.;Hackers+don’t+break+in.+They+log+in.;Think+before+you+click.+Every+click+counts.;The+human+element+is+the+weakest+link+in+cybersecurity.;If+you+think+technology+can+solve+your+security+problems,+then+you+don’t+understand+the+problems+and+you+don’t+understand+the+technology." />
 </p>
 
-<h2 align="center">🧠 Cyber Insights (Part 2)</h2>
+<h2 align="center">🧠 Cyber Insights </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Cybersecurity+is+the+digital+armor+of+modern+civilization.;There+is+no+patch+for+human+stupidity.;Strong+passwords+make+strong+walls.;The+more+you+know,+the+less+you+trust.;Hacking+isn't+criminal+unless+you+get+caught+doing+the+wrong+thing." />
 </p>
 
-<h2 align="center">🛡️ Cyber Defense Truths (Part 3)</h2>
+<h2 align="center">🛡️ Cyber Defense Truths </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Cyber+threats+don’t+sleep+—+neither+should+your+defense.;Firewalls+don’t+stop+social+engineering.;The+quietest+attack+is+often+the+deadliest.;Security+is+a+process,+not+a+product.;In+cybersecurity,+your+best+offense+is+a+paranoid+defense." />
 </p>
@@ -95,6 +93,15 @@ Let’s build a **safer digital world** together 🌐💡
   <img src="https://img.shields.io/badge/Security%20Automation%20%26%20Scripting-0a0a0a?style=for-the-badge&logo=code&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Red%20Teaming%20%26%20Ethical%20Hacking-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=lime" />
   <img src="https://img.shields.io/badge/Threat%20Intelligence%20%26%20OSINT-0a0a0a?style=for-the-badge&logo=search&logoColor=cyan" />
+</p>
+
+🎓 CERTIFICATION
+
+<p>
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%2B-yellow?style=for-the-badge&logo=compass&logoColor=black" />
+  <img src="https://img.shields.io/badge/eCPPT-eLearnSecurity%20Certified%20Professional%20Penetration%20Tester-blue?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/eWPTX-eLearnSecurity%20Web%20Application%20Penetration%20Tester%20Extreme-green?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 ---
